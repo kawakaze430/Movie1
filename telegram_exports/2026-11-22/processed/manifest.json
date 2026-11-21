@@ -1,0 +1,19 @@
+{
+  "batch": "ChatExport_2026-11-22",
+  "source_chat_id": 1881963160,
+  "target_chat_id": -1004492918137,
+  "target_chat_title": "Bollywood Movie",
+  "source_post_ids": [
+    3835,
+    3855
+  ],
+  "post_count": 21,
+  "photo_count": 21,
+  "non_channel_link_count": 61,
+  "telegram_promo_links_removed": 42,
+  "source_zip_sha256": "dae307085f6a9ba3a7b52a14575640112811dbf793fea1391107d82bfeb02d52",
+  "source_result_sha256": "160cb4832abb4a12bcd678ee55a4458638c3acdeb5f1eb12c3aa504440082725",
+  "processed_posts_sha256": "29f2bbc81a17d23d071bc9f84a92e963f3fbe44ffe6b0e631d5630feedbc2049",
+  "media_upload_status": "pending — use Kaggle notebook with a GITHUB_TOKEN to upload binary assets",
+  "notes": "21 additional source posts only. Existing 3780-message migrated batch is untouched."
+}
